@@ -1,0 +1,893 @@
+﻿"job_id","job_title","description","company","publication_date","application_deadline","employment_type","working_hours","duration","workplace_model","city","region","country","occupation","occupation_field","job_url"
+"30842085","Power BI Utvecklare","Om oss På Techrytera AB börjar rekryteringen med dig. Vi är ett bemannings- och rekryteringsföretag med spetskompetens och ett tydligt fokus inom IT och Engineering. Med vår branschkunskap och nära dialog med både kandidater och kunder skapar vi träffsäkra matchningar där rätt kompetens möter rätt behov.
+Vi tror att en riktigt bra matchning inte bara handlar om en rollbeskrivning – utan om dina erfarenheter, din potential och vad du faktiskt vill utvecklas inom. Därför utgår vi alltid från individen. Genom att förstå din bakgrund, dina drivkrafter och dina ambitioner kan vi koppla ihop dig med uppdrag och roller hos våra kunder där du får rätt förutsättningar att utvecklas och göra skillnad.
+Vårt mål är att bygga långsiktiga och meningsfulla samarbeten – både för dig som kandidat och för våra kunder.
+Arbetsbeskrivning Uppdragsbeskrivning:
+Kund står inför ett strategiskt initiativ att införa en ny analysplattform som ska stödja verksamhetens ökade behov av datadrivna beslut. Plattformen ska möjliggöra modern dataanalys, visualisering och rapportering, samt integreras med befintliga datakällor och system. Under implementationen migrerar kund verksamhetsområden data, rapporter, och analyser.
+Detta är ett stort och omfattande projekt och kund söker därför efter en utvecklare som kan stötta arbetet med den Power BI relaterade delen av migreringen och verksamhetsimplementationen. Utvecklaren kommer att arbeta i nära samarbete med representanter för våra verksamhetsområden, lösningsdesigner, våra datateam, samt dataanalytiker.
+
+Dina arbetsuppgifter kommer vara att:
+• Bygga rapporter i PBI Desktop i samarbete med verksamhetsrepresentanter och IT
+• Publicera rapporter till PBIRS
+• Ta fram och implementera rapportmallar
+• Definiera design-guidelines för målgrupper med varierad PBI vana
+• Sätta upp schemaläggningsrutiner för rapporter
+• Hålla PBI utbildningar för kollegor
+• Hålla i workshops för att ta fram gemensamma rutiner och processer
+Rollen kräver goda analytiska och kommunikativa egenskaper.
+
+Skakrav:
+• Tidigare erfarenhet av Power BI on-prem lösningar
+• Stark Power BI desktopkunskap
+• Stark PBIRS kunskap
+• Tidigare erfarenhet av att skapa och schemalägga rapportpaket
+• En god förståelse för datamodeller
+• Dokumenterad erfarenhet av att bygga användarvänliga rapportpaket
+• Tidigare erfarenhet av att hålla Power BI utbildningar
+• Ska godkänna att säkerhetsprövning utförs
+• Förstå och tala flytande svenska i tal och i skrift
+
+Meriterande:
+• Erfarenhet av SSAS är meriterande
+• Pythonkunskap är meriterande
+• Erfarenhet av att ta fram designguidelines för PBIRS är meriterande
+Ansökan När du söker via Techrytera AB söker du inte bara ett jobb – du påbörjar en dialog om din fortsatta karriär. Vi vill lära känna dig, din erfarenhet och dina ambitioner för att kunna matcha dig med rätt möjligheter hos våra kunder.
+Låter det intressant? Skicka in din ansökan eller hör av dig till oss så berättar vi mer. Vi ser fram emot att hitta nästa steg i din karriär tillsammans med dig.","Techrytera AB","2026-03-31 17:50:38","2026-09-27 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Stockholm","Stockholms län","Sverige","Systemutvecklare/Programmerare","Data/IT","https://arbetsformedlingen.se/platsbanken/annonser/30842085"
+"31457113","Power BI Developer and Data Analyst","About the Company
+At Avaron, you get the security of permanent employment combined with the variety of working at different customers. We place specialists across everything from tech, IT and industry to project management and business support – and whatever the assignment, you have a consultant manager who is there for you and your development.
+About the Role
+You will help shape how a global company in propulsion technology turns data into decisions. In this role, you will build trusted reporting and analytics capabilities that support strategic, tactical, and operational needs across the business.
+You will join a growing analytics environment where close collaboration with business stakeholders, data engineers, and platform specialists is key. The focus is on creating scalable, user-friendly, and governed reporting solutions that make data easier to use and easier to trust. This is a strong opportunity for you to influence reporting standards, self-service analytics, and how modern enterprise insights are delivered.
+Job DescriptionYou will design, develop, publish, and maintain Power BI solutions such as dashboards, reports, semantic models, DAX measures, and Power Query transformations.
+You will work closely with stakeholders to understand business needs, define KPIs, and turn complex data into clear visualizations and actionable insights.
+You will help improve reporting quality by applying standards for governance, usability, accessibility, performance, and data quality.
+You will collaborate with data engineering and platform teams to support reliable data availability, scalable model design, and trusted analytics.
+You will contribute to stronger self-service analytics by sharing best practices, supporting users, and helping drive continuous improvement in reporting and insight delivery.
+RequirementsAdvanced hands-on experience with Power BI, including report development, Power BI Service, semantic modelling, DAX, and Power Query.
+Strong knowledge of business intelligence, data analysis, KPI design, reporting frameworks, and visualization principles.
+Knowledge of dimensional data modelling, SQL, data quality, metadata, and governed reporting practices.
+Bachelor's degree in Data Analytics, Computer Science, Information Systems, Engineering, Business Intelligence, or a related field, or equivalent practical experience.
+5+ years of experience in Power BI development, data analytics, business intelligence, or a comparable role, delivering enterprise dashboards, semantic models, and scalable reporting solutions.
+Proven ability to translate business requirements into analytical models, KPIs, visualizations, and technical specifications in an enterprise environment.
+Experience optimizing reporting solutions for performance, usability, governance, and user adoption.
+Experience working with senior stakeholders and cross-functional teams in an international enterprise environment.
+Nice to haveFamiliarity with Azure, Microsoft Fabric, or similar enterprise analytics platforms.
+Understanding of agile product development, lifecycle management, and deployment practices for analytics solutions.
+Experience supporting or mentoring business users and developers in analytics, data visualization, and reporting best practices.
+What We OfferPermanent employment at Avaron AB
+Occupational pension
+Wellness allowance of SEK 5,000 per year
+Application
+Selections are made on an ongoing basis – apply as soon as you can.","Avaron AB","2026-09-09 14:18:17","2026-09-16 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Göteborg","Västra Götalands län","Sverige","Dataanalytiker","Försäljning, inköp, marknadsföring","https://arbetsformedlingen.se/platsbanken/annonser/31457113"
+"31440892","Junior Prisanalytiker med erfarenhet av Mircrosoft Power BI","Vill du bli en del av ett innovativt och globalt företag som ligger i framkant av teknik och hållbara lösningar där du får chansen att utvecklas i en dynamisk och internationell miljö där dina insatser gör skillnad? SJR tillsätter nu en driven Prisanalytiker till vår kund i Kista, ett globalt bolag inom elektronikbranschen. Detta är ett konsultuppdrag med start så snart som möjligt och inledningsvis på 6 månader och stort chans till förlängning eller överrekrytering till vår kund. 
+
+Om tjänsten
+
+Rollen som Price Promotion & Terms Analyst är en nyckelposition inom affärsområdet TV & AV och ansvarar för att säkerställa att marknads-, försäljnings- och affärsdata används på ett effektivt sätt för att stärka vår kunds marknadsposition i Norden. Tjänsten innebär ett nära samarbete med försäljning, marknad, produktledning och ledningsgrupp. Som Price Promotion & Terms Analyst arbetar du både strategiskt och operativt med att utveckla pris-, kampanj- och villkorsstrategier samt skapa analyser och insikter som ligger till grund för affärskritiska beslut. Rollen är central för att säkerställa att verksamheten arbetar datadrivet och att försäljningsorganisationen får rätt stöd för att nå sina mål.
+
+Ansvarsområden
+
+- Utveckla och implementera pris-, kampanj- och villkorsstrategier.
+- Säkerställa att aktiviteter stödjer affärsområdets strategi och mål.
+- Ta fram och analysera försäljningsrapporter och prognoser.
+- Följa upp och analysera Sell-In, Sell-Out samt marknadsutveckling.
+- Genomföra kundanalyser och identifiera affärsmöjligheter.
+- Ta fram insikter och rekommendationer för affärs- och kundutveckling.
+- Stödja försäljningsorganisationen i planering, målsättning och uppföljning.
+- Ansvara för löpande rapportering och resultatuppföljning.
+- Presentera analyser och rekommendationer för relevanta intressenter.
+
+Lämplig bakgrund
+
+Vi söker dig som är i början av din karriär och nyligen slutfört din eftergymnasiala utbildning inom ekonomi, business, marknadsföring eller annat relevant område, alternativt motsvarande arbetslivserfarenhet. Du har viss erfarenhet av kommersiellt analysarbete, business intelligence, försäljningsanalys eller projektledning i en affärsdriven organisation. Det är en fördel om du har arbetat med detaljhandel, konsumentelektronik eller andra snabbrörliga marknader. Du är van att hantera stora datamängder och har god förmåga att omvandla komplex information till tydliga slutsatser och konkreta affärsrekommendationer. Du har mycket goda kunskaper i Excel och PowerPoint samt erfarenhet av att skapa rapporter och presentationer för olika målgrupper. Erfarenhet av Mircrosoft Power BI är ett krav i denna roll. Du kommunicerar obehindrat på engelska och svenska i både tal och skrift. 
+
+Personliga egenskaper
+
+För att lyckas i rollen är du en analytisk person med stark affärsförståelse och ett naturligt intresse för att identifiera trender, möjligheter och förbättringsområden. Du arbetar noggrant och strukturerat med stor uppmärksamhet på detaljer, samtidigt som du har förmågan att se helheten och koppla analyser till affärsstrategiska mål. Du är kommunikativ och har lätt för att samarbeta med olika funktioner och intressenter, både internt och externt. Vidare är du lösningsorienterad, initiativtagande och trivs i en miljö där tempot är högt och där flera projekt och deadlines hanteras parallellt. Som person är du en lagspelare som kan påverka, motivera och skapa förtroende samtidigt som du tar ett stort eget ansvar för dina arbetsuppgifter och leveranser.
+
+Vad erbjuder vi
+
+Ansökan
+
+Vi intervjuar löpande och tjänsten kan komma att tillsättas innan ansökningstiden har gått ut. Sista ansökningsdag är 2026-10-03. TIll denna roll önskar vi ett CV på engelska. 
+
+Varmt välkommen med din ansökan!
+
+Konsult hos SJR
+
+Att arbeta som konsult hos SJR innebär att du blir en del av en dedikerad organisation med kompetens att ge dig perfekta förutsättningar att utvecklas både inom din yrkesroll och på ett personligt plan. Du får tillgång till vårt stora nätverk av intressanta företag och uppdragsgivare och därmed en unik möjlighet att ta din karriär till nästa steg.
+
+Vi på SJR bryr oss om vår personal och tillsammans med oss får du en långsiktig partner som ger dig trygghet och stöd. Vi är lyhörda för dina behov och du kommer att ha en nära relation med din konsultchef som stöttar dig i din utveckling. 
+
+#Bildlänk
+
+https://media.sjr.se/wp-content/uploads/2023/12/konsult_shutterstock_1206996091-scaled.jpg","SJR in Sweden AB","2026-09-04 15:38:03","2026-10-03 23:59:59","Behovsanställning","","","Arbete på plats","Stockholm","Stockholms län","Sverige","Affärsanalytiker/Business analyst","Administration, ekonomi, juridik","https://arbetsformedlingen.se/platsbanken/annonser/31440892"
+"31380520","Junior Data Engineer | Azure | Databricks | Power BI","Are you a Junior Data Engineer eager to build the data solutions of tomorrow? 
+ 
+Do you want to work with modern cloud technologies, large-scale data platforms, and analytics solutions that drive real business value? Are you looking for a role where you can grow your technical skills while collaborating with experienced colleagues in an international environment? Then this could be the perfect next step in your career.
+ 
+
+
+About the role
+
+As a Junior Data Engineer, you will be part of a team responsible for designing, developing, and maintaining modern data solutions. You will work closely with business stakeholders, analysts, and technical teams to ensure that data is transformed into valuable insights and business outcomes.
+This is a hands-on role where you will gain experience across the entire data lifecycle, from data ingestion and transformation to reporting and analytics.
+
+
+Your day-to-day responsibilities will include:
+
+Collaborating with Business Analysts and source system teams to identify and understand data requirements
+Onboarding and managing data within an Enterprise Data Lake environment
+Developing and maintaining data pipelines and transformation processes
+Moving and transforming data into SQL databases and data warehouses according to business needs
+Building and maintaining reporting and analytical data models
+Implementing business logic and KPI calculations based on stakeholder requirements
+Supporting the development of end-to-end analytics solutions together with other IT delivery teams
+Participating in the lifecycle management and continuous improvement of delivered solutions
+Ensuring data quality, consistency, and usability across various platforms
+This role offers an excellent opportunity to develop your expertise in cloud-based data engineering, analytics, and modern data platforms while working in a collaborative and innovative environment.
+
+We are looking for someone who has:
+
+A degree in Computer Science, Software Engineering, Data Engineering, Information Systems, or a related field
+Experience with Microsoft Azure data services
+Knowledge of Data Lake concepts and modern data platforms
+Experience working with SQL and relational databases
+Experience with Apache Spark, preferably PySpark
+Experience with Power BI
+Understanding of data modelling and information management principles
+Experience with scripting or programming languages such as Python, PowerShell, or .NET/C#
+Strong communication skills in English, both written and spoken
+
+
+To succeed in this role, we believe that you are:
+
+A team player who enjoys sharing knowledge and collaborating with others
+Self-driven and proactive
+Curious and eager to learn new technologies
+Analytical and solution-oriented
+Comfortable communicating with different stakeholders
+Service-minded and customer-focused
+Able to work effectively with colleagues from diverse cultural backgrounds
+Motivated by solving complex business and technical challenges
+
+
+Additional information
+
+ Location: Lund
+Start date: ASAP
+Assignment length: Long-term opportunity
+
+What does it mean to work as a consultant with Experis?
+
+
+At Experis, we believe in helping you develop in the direction that best matches your ambitions. You will gain access to continuous learning opportunities, certifications, and modern technologies that support your professional growth.
+As a consultant with us, you will receive support from a dedicated consultant manager and have access to Experis Career Accelerator, our AI-powered learning platform containing more than 4,500 courses and certifications within IT, Data, Cloud, and AI.
+
+
+About Experis
+
+Experis is a global leader in IT and technology consulting, with more than 600 consultants in Sweden and 22,000 worldwide. We are passionate about helping people and organizations succeed through innovation, knowledge, and continuous development.
+
+
+What can we offer you?
+
+We offer:
+Permanent employment with collective bargaining agreement
+Competitive monthly salary
+Occupational pension and insurance
+Wellness allowance
+Paid vacation and holiday compensation
+Continuous training and certification opportunities
+Exciting assignments with leading organizations
+A long-term career path within Data, Cloud, and AI
+
+
+Application
+
+
+Does this sound like the next step in your career? Submit your application today as selection and interviews are conducted on an ongoing basis.
+For questions regarding the position, please contact:
+Daniel Jordacijevic
+ daniel.jordacijevic@se.experis.com","Experis AB","2026-08-21 09:37:27","2026-09-20 23:59:59","Vanlig anställning","Heltid","6 månader eller längre","Arbete på plats","Lund","Skåne län","Sverige","Dataingenjör","Yrken med teknisk inriktning","https://arbetsformedlingen.se/platsbanken/annonser/31380520"
+"31468705","Power Platform Specialist","Brinner du för automation, AI och low-code? Till vår kund Ving söker vi nu en Power Platform Specialist!
+Vad erbjuder vi?
+Möjlighet att arbeta i framkanten av Microsoft-teknik
+En central roll där din expertis inom Power Platform möjliggör innovativa lösningar och stärker våra Citizen Developers
+Nära samarbete mellan de nordiska länderna
+Ett högt medarbetarengagemang
+Kollektivavtal, tjänstepension enligt ITP planen och trygghetsförsäkringar
+Reseförmåner.
+
+”Vi är en arbetsplats med ett stort kunnande och en stark drivkraft att ständigt förbättra vår verksamhet. Som en del av Nordic Leisure Travel Group erbjuder vi en spännande och utvecklande miljö med möjlighet till en intern karriär. Vår arbetsglädje och vårt höga engagemang visar sig i vår årliga medarbetarundersökning – och vi är stolta över att vara en arbetsplats där du kan växa och utvecklas.” Mer information om kunden ges vid personlig kontakt. 
+Vem söker vi?
+Högskoleutbildning inom datavetenskap, teknik, matematik eller motsvarande kunskap genom arbetslivserfarenhet
+Minst 3 års erfarenhet av Microsoft Power Platform, inklusive Power Apps, Power Automate, Power BI & Copilot Studio
+Praktisk tillämpning av Generativ AI, AI-assistenter och AI-agenter
+Utmärkta problemlösnings- och analytiska färdigheter
+Goda kunskaper i svenska och engelska
+
+Det är meriterande om du även:
+Har erfarenhet av att arbeta i en DevOps-kultur och med verktyg som AzureDevOps och GitHub
+Är certifierad inom AI & Microsoft Power Platform.
+
+Ditt arbetssätt präglas av nyfikenhet och en vilja att ständigt utvecklas. Du motiveras av att lära dig nya saker och ser förändring som en möjlighet snarare än ett hinder. Vi värdesätter samarbete och söker en person som trivs i en teamorienterad miljö. Du är prestigelös, lyhörd och engagerad i att hitta gemensamma lösningar tillsammans med dina kollegor. Att ta ansvar är en självklarhet för dig, även när oväntade situationer uppstår. Du ser utmaningar som en naturlig del av arbetet och hanterar dem med ett positivt och lösningsfokuserat förhållningssätt.
+Vad innebär rollen?
+Utforma, utveckla och tillhandahålla lösningar i Microsoft Power Platform & Copilot Studio
+Samarbeta med verksamheten och andra intressenter för att förstå affärskrav och identifiera möjligheter för AI-lösningar
+Ta fram ett ramverk för AI-agenter och hjälpa till att identifiera och prioritera användningsfall där AI-agenter kan skapa störst affärs- och verksamhetsvärde
+Utveckla och underhålla Power Platform-infrastruktur och verktyg inklusive AI-komponenter
+Hålla dig uppdaterad om de senaste utvecklingarna inom Microsoft Power Platform
+Utbilda och stötta Citizen Developers i organisationen
+Kommunicera komplexa tekniska koncept till icke-tekniska intressenter.
+
+Som Power Platform Specialist kommer du att spela en nyckelroll i att utforma, utveckla och driftsätta lösningar i Microsoft Power Platform för att möta verksamhetens behov. Du kommer att ansvara för att driva plattformen framåt och att fungera som en möjliggörare för Citizen Developers inom vår organisation för low-code lösningar. Dessutom kommer du att arbeta i framkanten av teknologin genom att integrera Generativ AI, AI-assistenter och AI-agenter för att automatisera processer och skapa nya värden för verksamheten.
+Du kommer att ingå i Vings Workplace team som ansvarar för att leverera innovativa och effektiva lösningar som driver vår verksamhet framåt. Teamet strävar efter att ständigt förbättras, och du kommer att ges stora möjligheter till personlig utveckling och att vara i framkant av den snabbt utvecklande low-code & AI teknologin.
+Intresserad? Skicka in ansökan snarast då urval sker löpande och tjänsten kan komma att tillsättas innan sista ansökningsdatum. I denna rekrytering använder vi oss av tester från Alva Labs, ett logiskt problemlösningstest och ett personlighetstest. Vi genomför även bakgrundskontroll som sammanställer tidigare offentligt brottsregister och ekonomisk skuldupplysning.","2Complete AB","2026-09-11 15:40:58","2026-09-19 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Stockholm","Stockholms län","Sverige","Systemutvecklare/Programmerare","Data/IT","https://arbetsformedlingen.se/platsbanken/annonser/31468705"
+"31477008","Senior BI-utvecklare","Om företaget
+Hos Avaron får du tryggheten i en fast anställning kombinerat med variationen av att arbeta ute hos olika kunder. Vi tillsätter specialister inom allt från teknik, IT och industri till projektledning och affärsstöd – och oavsett uppdrag har du en konsultchef som finns där för dig och din utveckling.
+Om rollen
+Du kliver in i en verksamhet mitt i en datatransformation där en ny data- och analysplattform håller på att ta form. Fokus ligger på att göra Databricks och Power BI till en skalbar plattform för rapportering, analys och self-service, med tydliga standarder, hållbar styrning och hög användbarhet.
+Rollen kombinerar strategiskt ansvar med hands-on arbete. Du arbetar nära både tech och verksamhet och blir en teknisk och metodmässig ledare för analytikergruppen tillsammans med Product Owner. Här får du påverka plattformens arbetssätt, modellering och användning från grunden, vilket gör rollen extra intressant för dig som vill skapa långsiktigt värde i en modern datamiljö.
+ArbetsuppgifterDu fångar verksamhetens behov och översätter dem till lösningar som fungerar i praktiken.
+Du driver plan och genomförande för Databricks och Power BI som en skalbar plattform för rapportering och analys.
+Du etablerar plattformens grunduppsättning, inklusive workspaces, deployment pipelines samt säkerhets- och behörighetsmodell.
+Du äger och vidareutvecklar det semantiska lagret över tid, med tydlig koppling till underliggande dataprodukter.
+Du definierar och förankrar standarder för datamodellering, DAX, namngivning, visuell design, certifierade dataset och återanvändbara komponenter.
+Du bidrar till styrmodell för nyckeltal och dimensioner samt utvecklar arbetssätt för self-service.
+Du leder och coachar analytiker, rapportbyggare och användare på olika mognadsnivåer.
+Du driver förändringsledning i analytics communityn för att öka användning, kvalitet och affärsvärde.
+Du tar fram utbildningsmaterial, mallar och dokumentation och säkrar en hållbar kunskapsöverföring.
+KravDu har djup erfarenhet av Databricks och Power BI, inklusive best practice för uppsättning och etablering av self-service.
+Du har omfattande erfarenhet av datamodellering enligt Kimball/star schema i tabulär modell.
+Du har omfattande DAX-erfarenhet, inklusive mått, time intelligence, kontextövergångar och optimering.
+Du har god förståelse för Microsoft Fabric och hur det förhåller sig till Databricks och klassisk Power BI.
+Du har dokumenterad erfarenhet av att driva BI- eller datadriven förändring i en medelstor till stor organisation, inklusive välfungerande self-service-modeller.
+Du är van att coacha både tekniska och icke-tekniska användare och att hantera motstånd konstruktivt.
+Du har erfarenhet av att bygga communities of practice, brown bags eller användarforum.
+Du kan sätta tydliga standarder och rambeslut med rätt balans mellan governance och adoption.
+Du kan översätta tekniska val till affärsspråk och facilitera workshops med blandade målgrupper.
+Du kommunicerar obehindrat på svenska och engelska.
+MeriterandeErfarenhet av migrering från Cognos eller Excel-/SQL-baserad rapportering till Databricks och Power BI.
+Erfarenhet av moderna lakehouse-arkitekturer, gärna i Databricks.
+Microsoft- eller Databricks-certifieringar.
+Vi erbjuderFast anställning hos Avaron AB
+Tjänstepension
+Friskvårdsbidrag på 5 000 kr per år
+Ansökan
+Vi tillsätter löpande – sök gärna så snart du kan.","Avaron AB","2026-09-15 09:00:48","2026-09-16 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Stockholm","Stockholms län","Sverige","Systemutvecklare/Programmerare","Data/IT","https://arbetsformedlingen.se/platsbanken/annonser/31477008"
+"31481004","Controller med fokus på beslutsstöd och AI","Ingen arbetsdag är den andra lik hos oss på Växjö kommun. Ibland tar vi hand om de små sakerna och ibland om de riktigt stora. Oavsett vilket innebär det en arbetsdag som betyder något på riktigt. Vi är drygt 7 000 medarbetare som tillsammans jobbar för att skapa en bra dag, varje dag. 
+
+Hos oss får du möjlighet att göra skillnad och samtidigt växa och utvecklas. Här finns en stor bredd av yrken och karriärmöjligheter, gemensamt för dem alla är att de bygger och skapar vårt framtida Växjö. Vill du dela vår arbetsdag?
+
+Jobba för en bra dag. Varje dag.
+
+
+
+1 plats(er). 
+
+ARBETSUPPGIFTER
+Ekonomiavdelningen är en central stödfunktion med cirka 80 medarbetare som ansvarar för att leda, samordna och utveckla kommunkoncernens ekonomi- och finansprocesser. Du kommer att ingå i controllerenheten, ett engagerat team med 16 kollegor.
+
+Vi söker nu en controller med särskilt fokus på beslutsstöd, AI och utveckling av rapporter och visualiseringar i Power BI. Rollen är central i vårt arbete med att skapa smartare arbetssätt, bättre beslutsstöd och ökad nytta av kommunens data.
+
+Du får en nyckelroll i att vidareutveckla hur Power BI, AI och datadrivna arbetssätt används inom ekonomiavdelningen samt omsätta verksamhetens behov till användbara rapporter, visualiseringar och beslutsstöd.
+
+I rollen kommer du att:
+
+	• ansvara för och vidareutveckla ekonomiavdelningens rapporter, visualiseringar och beslutsstöd i Power BI baserat på befintliga datakällor och modeller för att skapa tillgängliga och användarvänliga beslutsunderlag
+	• kartlägga och identifiera områden där AI, Copilot och andra verktyg kan effektivisera arbetssätt, utveckla processer och stärka beslutsstödet samt omsätta nya möjligheter till praktisk nytta
+	• fånga upp och omsätta verksamhetens behov till utvecklade arbetssätt och förbättrade beslutsstöd
+	• utbilda och stötta kollegor i användningen av Power BI, AI-baserade verktyg och nya arbetssätt
+	• samverka med verksamhet, systemförvaltare och IT kring beslutsstöd, datakvalitet och utvecklingsbehov
+
+KVALIFIKATIONER
+Vi söker dig som har:
+
+	• högskoleexamen inom ekonomi eller annan utbildning som arbetsgivaren bedömer som relevant
+	• erfarenhet av kvalificerat controllerarbete, ekonomistyrning, uppföljning och analys samt intresse för verksamhetsutveckling och digital utveckling
+	• god kunskap om Power BI eller motsvarande analys- och visualiseringsverktyg
+	• kunskap om eller intresse för AI-baserade verktyg och hur de kan användas för att utveckla verksamhet och arbetssätt
+	• god förståelse för data, system och informationsflöden samt förmåga att samverka med både verksamhet och IT
+
+För att lyckas i rollen är du initiativrik, nyfiken och drivande. Du har god samarbetsförmåga och kan kommunicera komplex information på ett enkelt och pedagogiskt sätt.
+
+Välkommen med din ansökan!
+
+Anställningsform: Tillsvidareanställning.
+Varaktighet: Tillsvidare.
+
+Växjö kommun erbjuder en attraktiv arbetsplats som är fri från diskriminering och ger lika möjligheter för alla.
+
+Som tillsvidareanställd blir du som regel krigsplacerad i vår organisation.
+
+Ansökan sker enbart via Offentliga jobbs rekryteringsverktyg (www.offentligajobb.se). 
+
+Till bemannings- och rekryteringsföretag eller till dig som är försäljare: Vi undanber oss vänligen men bestämt direktkontakt med bemannings- och rekryteringsföretag samt försäljare av ytterligare annonser.","VÄXJÖ KOMMUN","2026-09-15 16:25:07","2026-10-04 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Växjö ","Kronobergs län","Sverige","Controller","Administration, ekonomi, juridik","https://arbetsformedlingen.se/platsbanken/annonser/31481004"
+"31452883","Service Owner Analytics & Senior BI Developer","Driv och utveckla moderna analyslösningar i en senior roll där du kombinerar serviceägarskap med praktisk BI- och dataplattformsutveckling.
+Vill du kombinera strategiskt serviceägarskap med praktisk utveckling inom BI och analys? I den här seniora rollen arbetar du med skalbara dataproducts och moderna analyslösningar i en verksamhet med många affärsområden och intressenter.
+Om rollen
+Ansvara för utvalda analys- och BI-tjänster genom hela livscykeln.
+Kombinera serviceägarskap, prioritering och intressentdialog med hands-on-utveckling.
+Bidra till övergången från äldre BI-lösningar till en Databricks-baserad analysplattform.
+Samarbeta nära verksamhet, data engineers och plattformsteam.
+
+Det här kommer du göra
+Förvalta, supportera och vidareutveckla analys- och BI-lösningar.
+Utveckla datamodeller, transformationer och återanvändbara analyskomponenter i Databricks.
+Skapa och underhålla semantiska modeller, rapporter och dashboards i Power BI.
+Översätta verksamhetsbehov till skalbara dataproducts och analyslösningar.
+Bidra till AI-relaterade analysinitiativ, databeredning och feature-ready dataset.
+
+Vi söker dig som har
+Senior erfarenhet av att utveckla BI- och analyslösningar med tydligt verksamhetsvärde.
+Stark praktisk kompetens inom Databricks, SQL, notebooks och datamodellering.
+Gedigen erfarenhet av Power BI, inklusive semantisk modellering, DAX och prestandaoptimering.
+God förståelse för dataarkitektur samt ETL- och ELT-principer.
+Förmåga att driva prioriteringar och samverka med både verksamhet och tekniska team.
+
+Teknik & Verktyg
+Databricks för datamodellering, transformationer och analysutveckling.
+Power BI för semantiska modeller, rapportering och dashboards.
+SQL, DAX och notebooks.
+ETL/ELT och dataarkitekturprinciper.
+Qlik Sense och AI/ML-relaterade analystillämpningar är meriterande.
+
+Praktisk information
+Ort: Göteborg.
+Arbetssätt: Hybrid, med arbete på kontor cirka 2–3 dagar per vecka.
+Språk: Engelska i professionell arbetsmiljö.","Agile Resources AB","2026-09-08 15:55:13","2026-10-08 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Göteborg","Västra Götalands län","Sverige","Mjukvaruutvecklare","Data/IT","https://arbetsformedlingen.se/platsbanken/annonser/31452883"
+"31455303","Business Controller","Uppdragsbeskrivning
+Vi söker en Business Controller för ett tidsbegränsat uppdrag med fokus på att stötta verksamheten inom ekonomistyrning, uppföljning och analys.
+I rollen arbetar du nära befintlig Business Controller och bidrar både operativt och utvecklingsorienterat inom budget, prognos, rapportering och analys. Du blir en viktig del i att säkerställa kvalitet och relevans i den ekonomiska uppföljningen.
+En central del av uppdraget är att vidareutveckla budget- och prognosprocesser samt arbeta med förvaltning och administration av prognosverktyget Planning Analytics. I rollen ingår även att säkerställa relevanta och användbara rapporter för verksamheten, bland annat genom utveckling och anpassning av rapporter i Microsoft Power BI.
+Uppdraget innebär arbete i en miljö med flera system och dataflöden, vilket ställer krav på att du självständigt kan sätta dig in i datamodeller, struktur och logik samt förstå hur informationen används i styrning och uppföljning. 
+Rollen kräver även en stabil grund inom ekonomiska samband och redovisning, så att du kan tolka, kvalitetssäkra och omsätta data till relevanta insikter för verksamheten.
+Ansvarsområden 
+–      Stötta verksamheten i ekonomiska frågor, analys och uppföljning–      Vidareutveckla budget-, prognos- och uppföljningsprocesser–      Säkerställa relevanta och kvalitetssäkrade rapporter och beslutsunderlag–      Bygga om, vidareutveckla och vid behov nyutveckla rapporter i Microsoft Power BI–      Sätta sig in i och förstå komplexa dataflöden och systemkopplingar–      Identifiera förbättringsmöjligheter inom rapportering, processer och datakvalitet–      Dokumentera processer, rapportlogik och genomförda förändringarLeverensinnehåll:Du förväntas bidra med stöd och utveckling inom ekonomistyrning, uppföljning och analys. Leveransen kan bland annat omfatta:
+Stöd i löpande budget-, prognos- och uppföljningsarbete
+Analys och kvalitetssäkring av ekonomisk rapportering och underliggande data
+Vidareutveckling och anpassning av rapporter och visualiseringar i Microsoft Power BI
+Förbättring av budget-, prognos- och uppföljningsprocesser
+Dokumentation av processer, rapportlogik och genomförda förändringar
+Framtagande av relevanta beslutsunderlag och analyser till verksamheten
+
+Obligatoriska krav
+Akademisk examen inom ekonomi eller motsvarande
+Minst 5 års erfarenhet som Business Controller eller motsvarande roll
+Erfarenhet av budget-, prognos- och uppföljningsarbete
+Erfarenhet av att självständigt utveckla rapporter i Microsoft Power BI
+God förståelse för redovisning, ekonomiska samband och finansiella flöden
+Erfarenhet av att arbeta i komplexa systemmiljöer med flera dataflöden
+Dokumenterad förmåga att självständigt sätta sig in i nya system, datamodeller och verksamhetslogik
+
+Meriterande
+Erfarenhet av att utveckla budget- och prognosprocesser
+Erfarenhet av verksamhetsnära arbete och att översätta behov till analys/rapportering
+Erfarenhet av dokumentation av rapportlogik, processer och förändringar 
+
+Din ansökan
+Låter rollen intressant och passande? Ansök i så fall omgående för vi intervjuar löpande och rollen kan tillsättas innan sista ansökningsdatum. Vi kan enbart ta emot och bearbeta din ansökan genom att du registrerar ditt CV i vår portal. Med avseende på GDPR kan vi ej ta emot ansökningar via e-post. Varmt välkommen med din ansökan! Uppdraget är en del av Quest Consulting personaluthyrning.
+Om oss
+Quest Consulting är ett auktoriserat konsultbolag med kollektivavtal, försäkringar, friskvård och tjänstepension. Vi är specialiserade inom IT, Teknik, HR, Administration och Ekonomi. Vår målsättning är att vara din personliga samarbetspartner och just därför är det så viktigt för oss att arbeta efter våra kärnvärden där våra ledord är att vara Personliga, Nyskapande och Professionella.","Quest Consulting Sverige AB","2026-09-09 10:34:34","2026-09-16 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Stockholm","Stockholms län","Sverige","Business controller","Administration, ekonomi, juridik","https://arbetsformedlingen.se/platsbanken/annonser/31455303"
+"31462986","Business Controller - Vikariat","Vi söker en erfaren och drivande Business Controller som trivs med att arbeta verksamhetsnära. Vill du vara med och utveckla vår Power BI-rapportering och våra arbetssätt? Då kan du bli en viktig del av vårt team på Norconsult! 
+
+Du kommer bli anställd hos oss på Norconsult med ett vikariat som pågår från den 19 oktober 2026 till och med den 31 maj 2027, med eventuell möjlighet till förlängning. Tjänsten är placerad på vårt kontor i centrala Stockholm.
+
+Som vikarierande Business Controller blir du en del av Controlling i Sverige och arbetar nära verksamhetens chefer med uppföljning, analys, budget och prognos. Du får också en drivande roll i att utveckla rapportering i Power BI och effektivisera processer, bland annat med hjälp av AI och andra digitala verktyg.
+
+Du ansvarar för uppföljningen av en division och är dess naturliga kontaktperson inom ekonomisk uppföljning och analys. Rollen innebär nära samarbete med divisions- och avdelningschefer samt med övriga delar av ekonomi och IT.
+
+Dina huvudsakliga arbetsuppgifter:
+· Ansvara för månadsuppföljning, analys, rapportering och beslutsunderlag för din division.
+· Stötta divisions- och avdelningschefer i ekonomisk styrning och verksamhetsnära analyser.
+· Delta i budget- och prognosprocesserna och följa upp utfall mot plan.
+· Driva utvecklingen av rapportering och analys i Power BI, från verksamhetsbehov till användarvänliga rapporter.
+· Driva förbättringar och effektivare arbetssätt, bland annat med hjälp av AI och andra digitala verktyg.
+
+
+Din profil
+
+Vi söker dig som är en trygg och analytisk Business Controller med ett starkt verksamhetsfokus. Du trivs med att ta egna initiativ och omsätta behov till praktiska lösningar. Med ett starkt driv för utveckling och förbättring bidrar du aktivt till att skapa resultat tillsammans med olika delar av organisationen. Med din kommunikativa förmåga kan du på ett tydligt och pedagogiskt sätt omsätta siffror och analyser till insikter som stödjer verksamhetens beslut och utveckling.
+
+Vi ser att du har:
+· Relevant akademisk utbildning inom ekonomi eller motsvarande.
+· Dokumenterad erfarenhet av att utveckla rapporter i Power BI och lösningar i Power Query.
+· Flera års erfarenhet av självständigt arbete inom Business Control, ekonomistyrning eller kvalificerat controllerarbete.
+· God erfarenhet av månadsuppföljning, budget, prognos och rapportering.
+· Mycket goda kunskaper i Excel och vana att arbeta med större datamängder.
+· Förmåga att självständigt driva utveckling av rapportering och förbättring av processer.
+
+Det är meriterande om du har:
+· Erfarenhet av IBM Planning Analytics eller liknande planerings- och rapporteringssystem.
+· Erfarenhet av Deltek Maconomy eller arbete i en större internationell organisation.
+
+
+Vi är Norconsult
+
+Norconsult är ett av Nordens ledande konsultföretag inom samhällsbyggnad som kombinerar ingenjörskonst, arkitektur och digital expertis i projekt av alla storlekar, för privata och offentliga kunder. Genom innovation och samarbete, och med vårt syfte ”Varje dag förbättrar vi vardagen”, söker vi ständigt efter hållbara, effektiva och samhällsnyttiga lösningar. Vi är 7200 medarbetare i koncernen och 1500 medarbetare i Sverige utspridda på 40 kontor. Med över 140 kontor i Norge, Sverige, Danmark, Island, Polen och Finland kombinerar vi tvärfacklig expertis med lokal närvaro.
+
+För Norconsult är allas lika värde en grundförutsättning. Målsättningen är att våra medarbetare ska ha samma möjligheter att nå sin fulla potential oavsett vem de är eller hur de identifierar sig. En större bredd av perspektiv hjälper oss att förstå samhällets alla delar, utmanar oss i våra uppdrag och leder till en högre grad av innovation. Vi välkomnar därför medarbetare med olika bakgrund och erfarenheter. Du behöver behärska svenska obehindrat i tal och skrift för att kunna verka i rollen, men det är inget krav att det är ditt modersmål.
+
+Bekanta dig med din blivande chef:
+
+Andreas Svendsen | LinkedIn
+
+Välkommen med din ansökan!
+Till oss söker du med CV och en motivationstext. Observera att vi endast tar emot elektroniska ansökningar. Urval och intervjuer sker löpande, och tjänsten kan komma att tillsättas före sista ansökningsdag som är 4:e oktober. Skicka därför in din ansökan så snart som möjligt.
+Öppen för alla
+Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.","Norconsult Sverige AB","2026-09-10 16:00:10","2026-10-05 23:59:59","Behovsanställning","","","Arbete på plats","Stockholm","Stockholms län","Sverige","Business controller","Administration, ekonomi, juridik","https://arbetsformedlingen.se/platsbanken/annonser/31462986"
+"31477418","Finance Business Partner","Driv finansiell styrning för mjukvaruutveckling och fordonsprogram i en internationell teknikmiljö.
+Vill du arbeta nära mjukvaruutveckling, fordonsprogram och affärskritiska beslut? I rollen som Finance Business Partner blir du en central rådgivare inom finansiell styrning i en internationell teknik- och fordonsmiljö.
+Om rollen
+Vara finansiell partner till ledning och verksamhet inom intelligent mjukvaruutveckling.
+Ansvara för både operativ controlling och programcontrolling.
+Bidra med analyser som stärker strategiska och operativa beslut.
+Arbeta nära teknik, inköp, projektledning och andra nyckelfunktioner.
+
+Det här kommer du göra
+Driva månadsbokslut, avvikelseanalyser och uppföljning av finansiella nyckeltal.
+Följa upp OPEX, kostnader, budgetar, prognoser och långsiktiga finansiella planer.
+Övervaka projektkostnader, burn rate och prognosprecision samt föreslå åtgärder.
+Granska inköpsförfrågningar och leverantörsfakturor utifrån budget, avtal och interna riktlinjer.
+Sammanställa beslutsunderlag och presentationer för ledning.
+
+Vi söker dig som har
+Högskoleutbildning inom ekonomi, redovisning, företagsekonomi eller motsvarande.
+Minst 3–5 års erfarenhet av controlling, business partnering eller programcontrolling.
+Erfarenhet av budgetering, prognostisering och finansiell modellering.
+Förmåga att samarbeta tvärfunktionellt och kommunicera med seniora intressenter.
+Gärna erfarenhet från teknik-, fordons- eller ingenjörsverksamhet.
+
+Teknik & Verktyg
+Microsoft Excel på avancerad nivå.
+Power Query och makron är meriterande.
+Power BI är meriterande.
+SAP S/4HANA eller andra ERP- och BI-system är meriterande.
+
+Praktisk information
+Ort: Göteborg.
+Arbetssätt: Ej specificerat.
+Språk: Professionell engelska i tal och skrift krävs.
+Kinesiska är meriterande.","Agile Resources AB","2026-09-15 09:43:44","2026-10-15 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Göteborg","Västra Götalands län","Sverige","HR business partner/HR BP","Administration, ekonomi, juridik","https://arbetsformedlingen.se/platsbanken/annonser/31477418"
+"31435751","Data Engineer / BI Engineer till bolag inom transport och infrastruktur","Vill du arbeta brett inom data och BI och utveckla lösningar som skapar konkret värde för verksamheten? Nu söker vi en Data Engineer / BI Engineer som vill arbeta med allt från datamodellering och bearbetning av data till rapporter och dashboards i Power BI. Här får du en varierad roll där du kombinerar teknisk kompetens med förståelse för verksamhetens behov i en samhällsviktig organisation.
+Om tjänsten:
+I rollen blir du en del av ett BI/Analytics-team som ansvarar för att utveckla och förvalta organisationens data- och analyslösningar. Data används för att skapa bättre beslutsunderlag, effektivisera processer och bidra till ett mer datadrivet arbetssätt i verksamheten.
+Du kommer att arbeta med både moderna och befintliga BI- och datalösningar, där miljön bland annat består av Power BI, SQL Server, Azure SQL, Azure Databricks och dbt. Rollen innebär att du arbetar med att bearbeta och strukturera data samt utveckla rapporter och visualiseringar utifrån verksamhetens behov. Du blir en del av ett agilt team där du även deltar i planering, verksamhetsdialog och kunskapsöverföring.
+Arbetsuppgifter:Utveckla och underhålla rapporter och dashboards i Power BI utifrån verksamhetens behov.
+Bygga nya datalösningar i Azure Databricks med dbt, från datakontrakt och utveckling till automatiserade tester och leverans.
+Förvalta och vidareutveckla lösningar i både den nya dataplattformen och befintliga miljöer med SQL Server on-premises och Azure SQL.
+Arbeta agilt med bland annat planering, estimering, verksamhetsdialog och kunskapsöverföring inom teamet.
+Vi söker dig som:Har några års erfarenhet som Analytics Engineer, BI Engineer, Data Engineer eller motsvarande inom Business Intelligence.
+Har dokumenterad erfarenhet av utveckling i Power BI.
+Har dokumenterad erfarenhet av SQL Server och Azure SQL.
+Har erfarenhet av CI/CD, exempelvis i Azure DevOps, GitHub Actions eller motsvarande.
+Har erfarenhet av dimensionell datamodellering enligt Kimball eller Inmon.
+Talar och skriver flytande svenska och engelska.
+
+Det är meriterande om du har erfarenhet av Medallion Architecture, dbt, Python, on-prem-servrar, automatiserade tester och datakvalitetskontroller, DevOps-principer samt utveckling i Azure Databricks.
+För att trivas i rollen ser vi att du är driven, noggrann och metodisk i ditt arbetssätt. Du har lätt för att förstå verksamhetens behov och omsätta dem till välfungerande tekniska lösningar. Vidare tror vi att du är kommunikativ, lyhörd och trivs med att samarbeta och dela med dig av din kunskap till andra.
+Om kundföretaget:Vår kund är en stor aktör inom transport och infrastruktur med en samhällsviktig verksamhet. Organisationen arbetar aktivt med digitalisering och utveckling av sina data- och analyslösningar, där data spelar en central roll för att effektivisera verksamheten och skapa bättre beslutsunderlag.
+Om anställningen:Detta är ett konsultuppdrag vilket innebär att du kommer att vara anställd av Friday och arbeta som konsult hos vår kund. Uppdraget löper initialt till 31 mars 2027, med god möjlighet till förlängning.
+Övrig info:Omfattning: Heltid
+Start: Enligt överenskommelse
+Placering: Norra Stockholm
+Kontaktperson: Axel Stubbing, axel.stubbing@friday.se
+
+För uppdraget krävs drogtest.
+Ansök genom att klicka på länken nedan. Kom ihåg att vara snabb med din ansökan då vi gör löpande urval och annonsen kan komma att stängas innan tjänsten är tillsatt om vi gått vidare till urvals- och intervjufasen. Vi tar inte emot ansökningar via mail.
+Om friday:
+På Friday hjälper vi Tech-talanger att hitta roller där de trivs, utvecklas och gör skillnad. Genom att lyssna på vad just du vill och drivs av, matchar vi dig med företag och möjligheter som får dig att se fram emot att gå till jobbet. Vi värderar ambition och potential högt och arbetar aktivt för en fördomsfri rekrytering, där alla ges samma chans att lyckas. Vi finns i Stockholm, Göteborg, Malmö, Linköping och Örebro. Varje år genomför vi över  5 000 karriärmöten och matchar kandidater med allt från globala företag till innovativa startups.","Friday Väst AB","2026-09-03 16:11:24","2026-10-30 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Stokcholm","Stockholms län","Sverige","Dataingenjör","Yrken med teknisk inriktning","https://arbetsformedlingen.se/platsbanken/annonser/31435751"
+"31383787","IT-handläggare till PEAB i Ängelholm","Konsultuppdrag med goda möjligheter till anställning hos PEAB
+Är du en strukturerad, serviceinriktad och noggrann person med ett stort intresse för IT och administration? Vill du arbeta i en roll där du blir en viktig del av verksamhetens IT-leveranser och administrativa processer?
+Vi söker nu en IT-handläggare till PEAB i Ängelholm. Uppdraget inleds som ett konsultuppdrag via Poolia och erbjuder goda möjligheter till en framtida anställning hos PEAB.
+Om tjänsten
+Som IT-handläggare arbetar du med administrativa processer kopplade till PEABs IT-tjänster. Rollen är en central funktion mellan verksamheten, leverantörer och interna IT-processer. Du hanterar bland annat beställningar, licenser, användarkonton och andra administrativa IT-relaterade ärenden.
+Det här är inte en traditionell IT-support- eller teknikerroll. Arbetet omfattar inte felsökning av datorer eller teknisk support ute hos användare. Fokus ligger istället på administration, koordinering och hantering av IT-relaterade tjänster och beställningar.
+För dig som vill utvecklas vidare finns möjlighet att på sikt arbeta mer inom Software Asset Management (SAM), med exempelvis licenshantering, licensanalyser och optimering av mjukvarutillgångar.
+Exempel på arbetsuppgifter
+Hantera ärenden i företagets ärendehanteringssystem
+
+
+Administrera beställningar av mjukvara, datorer, telefoner och abonnemang
+
+
+Tilldela och administrera licenser
+
+
+Skapa och hantera användarkonton
+
+
+Arbeta med administration i exempelvis Entra ID, Active Directory och olika licensportaler
+
+
+Granska och kontera fakturor samt arbeta med tjänstedebitering
+
+
+Ge verksamheten stöd i frågor om IT-beställningar och administrativa processer
+
+
+Arbeta i olika affärs- och stödsystem
+
+
+Bidra till utveckling och förbättring av interna arbetssätt och processer
+
+Vem är du?
+Vi söker dig som har erfarenhet av administrativt arbete och ett genuint intresse för IT och digitala tjänster. Du trivs i en roll där du får kombinera administration, systemarbete och processhantering. Med ett strukturerat arbetssätt och god systemvana har du lätt för att hantera flera processer parallellt och skapa ordning i komplexa flöden.
+Vi tror att du har:
+Erfarenhet av administrativt arbete, gärna inom IT eller ett närliggande område
+
+
+God systemvana och erfarenhet av att arbeta i flera olika system samtidigt
+
+
+Erfarenhet av ärendehanteringssystem, fakturahantering eller administrativa stödsystem
+
+
+God förmåga att kommunicera på svenska i tal och skrift
+
+
+Goda kunskaper i Microsoft Office, särskilt Excel
+
+
+Förmåga att arbeta strukturerat, noggrant och självständigt
+
+
+Förmåga att se helheten och förstå samband mellan olika processer
+
+Det är meriterande om du har:
+Erfarenhet av Entra ID eller Active Directory
+
+
+Kunskaper inom Software Asset Management (SAM)
+
+
+Erfarenhet av licenshantering eller licensportaler
+
+
+Erfarenhet av ITSM- eller SAM-verktyg
+
+
+Erfarenhet av verktyg som Power BI, Power Automate, Power Apps eller Node-RED
+
+Vi erbjuder
+Du får en varierad roll där du blir en viktig del av PEABs IT-administration och får möjlighet att utvecklas inom områden som licenshantering, digitalisering och Software Asset Management. Du kommer att arbeta i ett engagerat team där struktur, samarbete och service står i fokus.
+Ansökan
+Urval sker löpande. Varmt välkommen med din ansökan redan idag!","Poolia AB","2026-08-21 15:12:21","2027-02-17 23:59:59","Behovsanställning","","","Arbete på plats","Ängelholm","Skåne län","Sverige","IT-samordnare","Data/IT","https://arbetsformedlingen.se/platsbanken/annonser/31383787"
+"31381643","Finance Data & Analytics Lead till Söderberg & Haak i Staffanstorp","Just nu söker vi en Finance Data & Analytics Lead till ett bolag som befinner sig mitt i en riktigt spännande förändringsresa. Här händer det mycket och du får chansen att vara med och bygga upp, påverka och sätta riktningen för hur data och analys ska användas framåt. Här finns en unik möjlighet att kliva in i en verksamhet som verkligen satsar framåt och där automatisering står högt på agendan. Det finns stora möjligheter att påverka både rollen och arbetssätten samtidigt som du får vara med och forma framtidens finansfunktion.
+Det här är en roll för dig som gillar att kombinera ekonomi, affär och teknik. Du är lika bekväm med att diskutera lönsamhet med verksamheten som att bygga smarta rapporter och dashboards i Power BI.
+Som Finance Data & Analytics Lead blir du en nyckelperson i arbetet med att utveckla finansfunktionen från traditionell rapportering till ett mer datadrivet arbetssätt. Du kommer att arbeta nära både ledning och verksamhet.
+Du rapporterar till vice VD och CFO Thomas Pehrsson, en erfaren och engagerad ledare som tror på frihet under ansvar och som lägger stort fokus på att se, stötta och utveckla sina medarbetare.
+Huvudsakliga ansvarsområden
+
+Arbeta nära affärsenheter för att följa upp resultat, identifiera trender och driva lönsamhetsförbättringar
+
+
+Designa och implementera skalbara BI-lösningar
+
+
+Utveckla och underhålla rapporter och dashboards i Power BI
+
+
+Säkerställa datakvalitet, dataintegritet och strukturer i datalager och datamodeller
+
+
+Definiera, standardisera och vidareutveckla KPI-ramverk baserat på statistiska samband och affärslogik
+
+
+Automatisera och ansvara för finansiella processer (budget, prognos, uppföljning) end-to-end
+
+
+Analysera stora datamängder och omvandla dessa till tydliga beslutsunderlag
+
+
+Stötta organisationen med ad hoc-analyser och affärsinsikter
+
+
+Delta i och driva förbättringsinitiativ kopplade till styrning, uppföljning och rapportering
+
+
+Automatisera och effektivisera rapporteringsprocesser med hjälp av BI-verktyg
+
+
+Samverka med IT och andra funktioner kring datalager, system och integrationer
+
+
+
+Vem är du?
+Vi tror att du har en stark förståelse för ekonomi och affär samtidigt som du har ett genuint intresse för data och analys. Vi ser att du har en eftergymnasial utbildning inom ekonomi eller motsvarande och har några års erfarenhet inom Finance Analytics samt budget – och prognosarbete. Du har goda kunskaper i Power BI och erfarenhet av att ha arbetat med stora mängder data. Som person är du nyfiken lösningsorienterad och trivs i en miljö där saker utvecklas och förändras. Du gillar att utmana gamla arbetssätt och drivs av att skapa värde genom data. Din nyfikenhet och intresse gör att du snabbt skapar förtroende i organisationen.
+Hur gör jag nu?
+Intervjuer sker löpande så ansök gärna så snart som möjligt. I den här rekryteringen samarbetar Söderberg & Haak med Mpya Finance. Har du frågor gällande rekryteringsprocessen eller kring tjänsten är du varmt välkommen att kontakta Johanna Andersson på tel. 0706-555730, johanna.andersson@mpya.se alternativt Cathrine Wiberg på tel. 0707383247, cathrine.wiberg@mpya.se
+Ansökan sker via www.mpyafinance.se","Mpya Finance AB","2026-08-21 11:22:56","2027-02-17 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Malmö","Skåne län","Sverige","Business controller","Administration, ekonomi, juridik","https://arbetsformedlingen.se/platsbanken/annonser/31381643"
+"31363610","Junior Business Controller till Avarn Security Sverige","Är du i början av din karriär och vill utvecklas inom Business Control, dataanalys och verksamhetsstyrning? Brinner du för Excel, Power BI och att omvandla data till affärsinsikter? Då kan detta vara rollen för dig.
+På Avarn Security arbetar vi för att skapa trygghet i samhället. För att lyckas behöver vi starka affärsbeslut baserade på data, analys och förståelse för verksamheten.
+Nu söker vi en Junior Business Controller som vill utvecklas i en affärsnära roll där analys, teknik och verksamhetsutveckling möts. Du blir en del av vårt Business Control-team och får möjlighet att arbeta tillsammans med erfarna Business Controllers, vilket ger goda förutsättningar för både kompetensutveckling och personlig utveckling. Du kommer att rapporterar till Head of Business Control.
+Om rollen
+Som Junior Business Controller blir du en viktig del av vår Business Control-funktion. Du arbetar nära verksamheten och hjälper chefer att förstå sin ekonomi, följa upp nyckeltal och identifiera förbättringsmöjligheter. Du kommer också att bidra till utvecklingen av våra rapporterings- och analysverktyg, där Microsofts plattformar spelar en central roll. Det här är en perfekt roll för dig som vill kombinera ekonomi, teknik och affärsutveckling.
+Dina huvudsakliga arbetsuppgifter
+ 
+ 
+Som Junior Business Controller arbetar du nära verksamheten och stöttar första linjens chefer och gruppledare i deras ekonomiska uppföljning. En viktig del av rollen är att analysera arbetade timmar, avvikelser och verksamhetsrelaterade nyckeltal för att skapa insikter som bidrar till bättre affärsbeslut och ökad lönsamhet.
+Du deltar i månadsbokslut, resultatanalyser och ekonomiska utredningar samt bidrar i budget- och prognosprocessen. Rollen innebär även att medverka vid prisjusteringar enligt kundavtal och att stötta chefer i att förstå och använda ekonomisk information som ett verktyg för att utveckla verksamheten.
+Vidare följer du upp lönsamhet, identifierar förbättringsområden och är delaktig i utvecklingen av rapporter, dashboards och andra uppföljningsverktyg. Du kommer också att bidra i projekt kopplade till Business Control, digitalisering och verksamhetsutveckling, samtidigt som du är med och utvecklar arbetssätt, processer och analysmodeller som stärker Avarn Securitys framtida affärsstyrning.
+Vem är du?
+ 
+ 
+Vi söker dig som är nyfiken, analytisk och gillar att lösa problem. Du trivs med siffror och analys, men är minst lika intresserad av att förstå verksamheten bakom resultaten. Du har ett naturligt driv att hitta förbättringsmöjligheter, tar gärna egna initiativ och ser möjligheter där andra ser begränsningar.
+Som person är du prestigelös och tycker om att samarbeta med andra för att nå gemensamma mål. Du arbetar strukturerat och noggrant, samtidigt som du har ett intresse för teknik, data och hur nya arbetssätt kan bidra till bättre affärsbeslut. Du känner dig bekväm i dialog med olika delar av verksamheten och har förmågan att förklara ekonomiska samband på ett tydligt och pedagogiskt sätt.
+För att trivas och lyckas i rollen tror vi att du är:
+Nyfiken på teknik, data och affärsutveckling
+Kommunikativ och trygg i dialog med olika delar av verksamheten
+Driven och engagerad i din egen utveckling
+
+Rollen passar dig som vill utvecklas i en affärsnära miljö där du får möjlighet att påverka, lära dig nytt och växa tillsammans med erfarna kollegor. Vi värdesätter olika perspektiv och tror att de bästa resultaten skapas när människor med olika erfarenheter och bakgrunder arbetar tillsammans.
+Vi tror att du har
+ 
+ 
+Du har en högskoleutbildning inom ekonomi, industriell ekonomi, business analytics eller motsvarande och har arbetat något eller några år inom controlling, ekonomi, analys eller ett närliggande område. Du är van att arbeta i Excel och ser data som ett naturligt verktyg för att förstå verksamheten och skapa beslutsunderlag.
+För att lyckas i rollen tror vi också att du har:
+Goda kunskaper eller ett stort intresse för Power BI
+En stark analytisk förmåga och ett genuint intresse för data
+God förståelse för Microsoft 365-miljön
+
+Det är ett extra plus om du dessutom har erfarenhet av
+Power Query, Power Pivot, SQL eller Power Platform
+Automatisering, datavisualisering och utveckling av rapporteringslösningar
+Tjänsteverksamhet eller andra personalintensiva verksamheter
+
+ Därför ska du välja Avarn Security
+På Avarn Security får du mer än bara ett traditionellt controllerjobb. Du blir en del av ett team där samarbete, utveckling och kunskapsdelning står i fokus. 
+Vi erbjuder en roll där du får möjlighet att växa inom Business Control, dataanalys och verksamhetsutveckling i en modern och digital miljö. Du kommer att arbeta tillsammans med erfarna Business Controllers som gärna delar med sig av sin kunskap och stöttar dig i din utveckling. Samtidigt får du utrymme att ta egna initiativ, påverka arbetssätt och vara med och utveckla framtidens ekonomistyrning inom en av Nordens ledande säkerhetskoncerner.
+Vi söker dig som är redo att ta nästa steg och vill bygga en karriär där ekonomi, teknik och affärsutveckling går hand i hand.
+Varmt välkommen in med din ansökan! Urval sker löpande, så skicka gärna in din ansökan snarast möjligt - dock senast 2026-09-15- sök tjänsten via vår https://www.avarnsecurity.se/karriar/lediga-tjanster/?rmpage=job&rmjob=p5841- ej via mejl. Tester kommer att tillämpas i rekryteringsprocessen.
+ 
+Vårt erbjudande
+ 
+ Avarn Security värnar om att du som medarbetare ska ha en trygg livssituation och hållbarhet i arbetslivet. Därför erbjuds alla nyanställda kostnadsfritt ett års försäkringslösning innehållande bland annat sjuk- och olycksfallsförsäkring, livförsäkring och barn- och ungdomsförsäkring.
+ För att kunna anställas inom Avarn Security AB krävs att du blir godkänd av Länsstyrelsen för anställning i ett auktoriserat bevakningsföretag, i enlighet med Lag (1974:191) om bevakningsföretag. Ansökan till Länsstyrelsen hanteras av Avarn Security. Beroende på vilken befattning det gäller kan även en säkerhetsprövning enligt Säkerhetsskyddslagen (2018:585) bli aktuell. För att kunna utreda och bedöma om du uppfyller kraven enligt respektive lagstiftning genomförs en bakgrundskontroll. Denna bedömning omfattar laglydnad, lämplighet, pålitlighet, lojalitet samt eventuella sårbarheter. Uppgifter som inhämtas kan komma från dig själv, från öppna källor eller från myndigheter. Vid prövning av lämplighet för en tjänst tillämpar vi alltid en helhetsbedömning.
+ 
+Öppen för alla
+Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.","Avarn Security AB","2026-08-18 09:30:22","2026-09-16 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Stockholm","Stockholms län","Sverige","Business controller","Administration, ekonomi, juridik","https://arbetsformedlingen.se/platsbanken/annonser/31363610"
+"31430761","Business Controller - Göteborg","Vill du arbeta i en analytisk och affärsnära roll där du får kombinera controlling, affärsanalys och verksamhetsutveckling? Nu söker vi en Business Controller till ett spännande konsultuppdrag hos ett världsledande industriföretag. Här får du möjlighet att påverka verksamheten genom kvalificerade analyser, finansiell uppföljning och nära samarbete med flera olika funktioner inom organisationen.
+ 
+Detta är ett uppdrag för dig som trivs i en dynamisk miljö där du får arbeta både operativt och strategiskt, samtidigt som du bygger värdefull erfarenhet i en internationell verksamhet.
+ 
+
+Om rollen
+
+Som Controller / Financial Analyst ansvarar du för analys, uppföljning och rapportering kopplat till verksamhetens ekonomi och affärsprocesser. Du blir en viktig affärspartner som stöttar verksamheten med beslutsunderlag och ekonomiska insikter.
+Dina huvudsakliga arbetsuppgifter inkluderar:
+Månadsbokslut, analyser och rapportering av KPI:er
+Budget-, prognos- och estimatarbete
+Investeringsanalyser kopplade till leverantörer, kapacitet och resurser
+Kostnadsuppföljning och analys av materialkostnader
+Framtagning av business case och beslutsunderlag
+Finansiellt stöd till projekt och verksamhetsinitiativ
+Uppföljning och hantering av leverantörsrelaterade ekonomifrågor
+Rapportering och analys i framför allt Power BI
+Nära samarbete med verksamhet, inköp och andra interna intressenter
+
+
+Vi söker dig som:
+
+Har en akademisk examen inom ekonomi eller företagsekonomi
+Har några års erfarenhet som Controller, Business Controller eller liknande roll
+Är van att arbeta med ekonomisk uppföljning, analys och rapportering
+Har kunskaper i Excel
+Har erfarenhet av ekonomisystem, exempelvis SAP eller liknande
+Har erfarenhet av Power BI eller ett starkt intresse för datadriven rapportering
+Kommunicerar obehindrat på engelska i tal och skrift
+
+
+För att lyckas i rollen tror vi att du är:
+
+Självständig och trygg i att ta eget ansvar
+Analytisk och strukturerad
+Initiativtagande och lösningsorienterad
+Relationsskapande med god förmåga att samarbeta med olika delar av verksamheten
+Nyfiken på digitalisering, system och effektiva arbetssätt
+
+
+Meriterande
+
+Ett starkt intresse för digitala verktyg och system
+Erfarenhet av rapportutveckling
+Erfarenhet av i Power BI
+
+
+Vi erbjuder
+
+
+Det här är en möjlighet att bli en del av en global och innovativ verksamhet där du får arbeta nära affären och bidra till viktiga beslut. Du får en varierad vardag, stort eget ansvar och möjlighet att utvecklas tillsammans med engagerade kollegor i en organisation som värdesätter samarbete, utveckling och förbättringsarbete.
+Omfattning: Heltid
+ Uppdragslängd: 12 månader med möjlighet till förlängning
+ Start: Enligt överenskommelse
+
+
+Om Jefferson Wells
+
+Vi på Jefferson Wells är specialister på kompetensförsörjning av chefer och specialister. Genom vårt nära samarbete med några av Sveriges mest attraktiva verksamheter och starkaste varumärken kan vi erbjuda dig unika möjligheter till utvecklande uppdrag över tid. Våra engagerade konsultchefer har gedigen kunskap inom just ditt specifika område, vilket garanterar att din karriär och personliga utveckling alltid står i absolut fokus. Vi tror på att kombinera vår djupa branscherfarenhet med en sann förståelse för din potential -för det är i den matchningen som vi får både talanger och verksamheter att växa och utvecklas tillsammans. Välkommen till ett nätverk som lyfter din karriär.
+
+
+ Din ansökan
+
+Du är varmt välkommen att registrera din ansökan redan idag.
+Genom att ansluta dig till vårt kandidatnätverk kan du bli aktuell för spännande möjligheter hos några av Sveriges ledande företag inom industri, teknik och tillverkning. Här får du chansen att utvecklas i din roll och bidra i uppdrag som verkligen gör skillnad. Har du frågor om uppdraget är du varmt välkommen att kontakta vår Talent Acquisition Specialist, Tilde Alriksson. För att vi ska kunna hantera din ansökan på bästa sätt ber vi dig skicka den via vårt system, då vi inte tar emot ansökningar via mejl.
+
+Vi ser fram emot att höra från dig!
+Notera att detta är en löpande rekryteringsprocess och att tjänsten kan komma att tillsättas innan sista ansökningsdag.","Experis AB","2026-09-02 16:31:29","2026-10-02 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Gothenburg","Västra Götalands län","Sverige","Controller","Administration, ekonomi, juridik","https://arbetsformedlingen.se/platsbanken/annonser/31430761"
+"30859146","Data Engineer – Konsultuppdrag, Stockholm","Om uppdraget
+Vi förbereder just nu ett spännande konsultuppdrag där du som Data Engineer får möjlighet att ta ett helhetsgrepp kring en organisations datalandskap. Uppdraget handlar i grunden om att se till att rätt data når rätt personer i rätt tid – och att infrastrukturen bakom är robust, skalbar och väldokumenterad.
+Du kommer att arbeta i skärningspunkten mellan teknik och verksamhet: bygga och förfina datapipelines, ta fram beslutsunderlag genom visualisering, och vara den person teamet vänder sig till när det blir tekniskt komplext. Det här passar dig som trivs med att äga helheten snarare än att bara leverera enskilda komponenter.
+Plats: Stockholm (hybrid, 2–3 dagar på plats per vecka)  Start: Omgående  Omfattning: Heltid 
+ Det här jobbar du med i praktiken
+Bygga, drifta och finjustera ett Snowflake-baserat datalager
+
+
+Skapa och vidareutveckla rapporter och dashboards i Power BI som verksamheten faktiskt använder
+
+
+Designa och underhålla datapipelines med ETL/ELT-metoder
+
+
+Kvalitetssäkra data och se till att hanteringen lever upp till GDPR och interna riktlinjer
+
+
+Hålla dokumentationen levande – datamodeller, flöden och rapportlogik
+
+
+Vara bryggan mellan IT-avdelning och affärssida
+
+
+Coacha och stötta kollegor i tekniska frågor
+
+Din profil
+Du har en stark teknisk grund och är van att jobba hands-on med data i hela kedjan – från källa till färdig rapport. Vi ser gärna att du har erfarenhet av:
+
+Snowflake – du har jobbat aktivt med plattformen, inte bara snuddat vid den
+
+
+Power BI – du bygger genomtänkta rapporter och förstår datamodellen bakom
+
+
+SQL – ditt starkaste verktyg i verktygslådan
+
+
+Python – för automation, transformation eller analys
+
+
+ETL/ELT-verktyg – gärna dbt, men annan relevant erfarenhet fungerar också
+
+
+Du kommunicerar obehindrat på svenska och engelska och är den typen som tar initiativ, driver framåt och inte väntar på att bli tillsagd.
+Bonuspoäng om du även har:
+Erfarenhet av agilt arbetssätt och DevOps-tänk inom dataområdet
+
+
+Praktisk erfarenhet av datamodellering och prestandaoptimering i datalager
+
+Låter det som du?
+Hör av dig med ditt CV så berättar vi mer. Uppdraget startar omgående och vi vill gärna ha dialog med relevanta kandidater så snart som möjligt.","Liminity AB","2026-04-02 11:57:42","2026-09-29 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Stockholm","Stockholms län","Sverige","Dataingenjör","Yrken med teknisk inriktning","https://arbetsformedlingen.se/platsbanken/annonser/30859146"
+"30881638","BI‑konsult - för dig som vill ta nästa steg inom data, Analytics & AI","Vill du arbeta i ett team där kvalitet, kundvärde och teknik går hand i hand? Dizparc Umeå söker nu en senior Business Intelligence‑konsult som vill vara med och utveckla moderna data‑ och analyslösningar för våra kunder – med Microsofts Data & AI‑plattform som bas.
+Det här är en roll för dig som har gedigen erfarenhet inom BI och som trivs i konsultrollen där du får kombinera teknisk kompetens, affärsförståelse och rådgivning.
+ 
+Om rollen
+Som senior BI‑konsult hos oss kommer du att:
+Leda och genomföra BI‑ och dataplattformprojekt i nära dialog med kunder.
+Arbeta med moderna lösningar inom Power BI, SQL Server, Azure Data Platform samt gärna Fabric eller Databricks.
+Modellera, transformera och strukturera data (DW/ETL/ELT).
+Designa rapporter, dashboards och semantiska modeller med hög kvalitet.
+Arbeta med projekt kopplade till AI/ML, antingen genom praktisk erfarenhet eller relevant utbildning.
+Vara rådgivare till kunder kring dataplattformar, analysstrategier och arkitektur.
+Bidra till kompetensutveckling i teamet och vara bollplank i kunddialoger.
+
+ 
+Vem är du?
+Vi söker dig som:
+Har arbetat som konsult tidigare (minst 3–5 års erfarenhet).
+Har erfarenhet av Power BI, T‑SQL, Azure Data Platform eller motsvarande tekniker.
+Har arbetat praktiskt med datamodellering, ETL/ELT eller datalager.
+Har god förståelse för affärsprocesser och hur data stödjer beslutsfattande.
+Kommunicerar obehindrat på svenska och engelska.
+
+Det är meriterande med:
+Erfarenhet av AI‑projekt, prompt engineering, modellutbildning eller AI‑relaterad utbildning.
+Erfarenhet av Azure Fabric, Azure Synapse Analytics, Databricks eller liknande plattformar.
+Erfarenhet av att arbeta med eller bidra till arkitektur för datalager och beslutsstödsplattformar.
+Erfarenhet av projekt inom industri, energi, retail, tillverkning, finans eller offentlig sektor.
+Certifieringar inom Microsoft Data & AI.
+
+ 
+Vi tror att du trivs här om du:
+Gillar att kombinera teknik och verksamhetsnytta.
+Är trygg i kunddialoger och van att leda uppdrag.
+Tar ansvar, samarbetar och delar kunskap.
+Har en naturlig nyfikenhet på modern teknik – särskilt kring AI och Microsofts snabba utveckling inom området.
+
+ 
+Vad erbjuder vi?
+Möjlighet att påverka både kunders datalandskap och Dizparcs utveckling inom BI och AI.
+Stort handlingsutrymme och delaktighet i strategi och tekniska val.
+En varm, kompetent och prestigelös kultur där vi stöttar varandra.
+Flexibilitet och balans mellan arbete och fritid.
+En arbetsplats som är Microsoft Solutions Partner inom Data & AI.
+
+ 
+Välkommen att söka!
+Skicka in din ansökan eller kontakta oss om du vill veta mer om rollen eller teamet.
+Vi välkomnar sökande med olika bakgrunder – mångfald gör oss starkare.","dizparc Umeå AB","2026-04-09 14:32:20","2026-09-30 23:59:59","Tillsvidareanställning (inkl. eventuell provanställning)","Heltid","Tills vidare","Arbete på plats","Umeå","Västerbottens län","Sverige","Systemutvecklare/Programmerare","Data/IT","https://arbetsformedlingen.se/platsbanken/annonser/30881638"
+"31479999","Koncerncontroller","Att bygga och sköta om vägar och infrastruktur är stort. Att bidra till samhällsutvecklingen är ännu större. Hos oss får du göra både och. Nu söker vi en koncerncontroller till vårt huvudkontor i Stockholm. Inom Svevia kombinerar vi det lilla företagets gemenskap och lagkänsla med storföretagets stabilitet. Här får du möjlighet att utvecklas och utveckla andra som en specialist på väg - med engagemang, samarbete och ansvar.
+Ditt uppdrag som koncerncontroller
+Vill du kombinera kvalificerat controllerarbete med utveckling, digitalisering och datadrivet beslutsstöd?
+Som koncerncontroller hos oss får du en central roll i arbetet med att utveckla ekonomifunktionens analys- och rapporteringsförmåga. Du arbetar nära CFO, koncernledning och verksamheten med rapporter, prognoser och analyser som skapar förutsättningar för välgrundade beslut.
+Rollen har en tydlig utvecklingsinriktning där du, utöver traditionellt controllerarbete, driver förbättringar inom rapportering, analysstöd och ekonomiska processer. Du utvecklar rapporter och visualiseringar i Power BI, leder utvecklingsinitiativ och bidrar till att skapa smartare arbetssätt inom ekonomiområdet.
+I rollen kommer du bland annat att:
+
+utveckla rapporter, visualiseringar och analysstöd i power BI för att stärka verksamhetens beslutsfattande
+
+
+bidra till utvecklingen av AI-baserade lösningar, automatisering och nya arbetssätt inom ekonomifunktionen
+
+
+driva utvecklingsinitiativ inom ekonomistyrning, analys och rapportering samt identifiera möjligheter till standardisering och effektivisering
+
+
+ta fram rapporter, analyser, prognoser och beslutsunderlag för ledning och verksamhet
+
+
+genomföra lönsamhets-, resultat- och avvikelseanalyser samt följa upp verksamhetens utveckling
+
+
+utveckla och kvalitetssäkra rapporterings- och prognosprocesser
+
+
+delta i koncernens månads-, kvartals- och årsbokslut samt finansiella rapportering
+
+
+fungera som ett stöd till chefer och verksamhet genom analyser, utbildning och ekonomisk rådgivning
+
+
+Vem är du?
+Vi söker dig som har en akademisk examen inom ekonomi eller motsvarande samt flera års erfarenhet av controlling, ekonomisk analys eller annat kvalificerat ekonomiarbete.
+Du har god förståelse för ekonomistyrning, rapportering och prognosarbete och är van att omsätta data till tydliga insikter och beslutsunderlag. Du har erfarenhet av Power BI eller andra analys- och BI-verktyg och trivs i gränslandet mellan ekonomi, verksamhet och utveckling.
+Det är meriterande om du har erfarenhet av förändrings- och utvecklingsarbete, ett intresse för AI och automatisering eller erfarenhet från större eller projektorienterade verksamheter.
+Som person är du analytisk, affärsorienterad och utvecklingsdriven. Du arbetar strukturerat, tar ansvar för att driva frågor framåt och har lätt för att skapa förtroende i samarbetet med andra. Du är nyfiken på nya arbetssätt och motiveras av att förbättra, förenkla och skapa konkret nytta för verksamheten.
+En del av något större
+På Svevia arbetar vi med att få stad och land att fungera. Vi bygger, utvecklar och underhåller den infrastruktur som människor använder varje dag och som samhället är beroende av. En fungerande infrastruktur är viktig idag och för generationerna som kommer efter oss.
+Som koncerncontroller bidrar du till detta genom att utveckla ekonomifunktionens analys- och beslutsstöd. Ditt arbete hjälper verksamheten att fatta bättre beslut, prioritera rätt investeringar och fortsätta utveckla både affären och våra arbetssätt. Genom digitalisering, AI och datadrivna insikter blir du en viktig del av Svevias fortsatta utveckling och arbetet med att skapa långsiktig nytta för verksamheten.
+Varför Svevia?
+Hos oss blir du snabbt en i gänget och vi månar om att vara en arbetsplats för alla. Beslutsvägarna är korta, det är lätt att påverka och göra sin röst hörd.
+Vi har karriärvägarna för dig som både vill bli chef och ledare eller vill utvecklas i din befintliga yrkesroll. Framgången skapar vi som ett lag. Det är så vi gör affärer och genererar resultat. Det är så vi får stad och land att fungera. Vill du dela väg med oss? 
+Ansökan och information
+Du ansöker enkelt genom att skicka in ditt CV och svara på några urvalsfrågor. Vår rekryteringsprocess bygger på ett kompetensbaserat arbetssätt, det är en förutsättning för att rekrytera kvalitetssäkert, inkluderande och fördomsfritt. Därför vill vi inte ha ett personligt brev.
+Skicka in din ansökan snarast möjligt och som senast den 6e oktober.
+Har du frågor om tjänsten är du välkommen att kontakta rekryterande chef Jennie Fredenberg på jennie.fredenberg@svevia.se. Har du frågor om rekryteringsprocessen kontaktar du TA Business Partner Ludvig Zetterman Dahlen på ludvig.zetterman-dahlen@svevia.se. 
+Vi har tagit ställning till annonsering, vilket gör att vi inte önskar säljsamtal för ytterligare frågor kring annonsering, rekrytering eller bemanning.","Svevia AB (publ)","2026-09-15 14:35:12","2026-10-06 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Stockholm","Stockholms län","Sverige","Koncerncontroller","Administration, ekonomi, juridik","https://arbetsformedlingen.se/platsbanken/annonser/31479999"
+"31428798","Säljare","Du har precis bokat ett möte med en kund du länge haft ögonen på.
+Inte för att du råkade snubbla över ett namn i ett register, utan för att du kan din marknad. Du vet vilka företag som skulle ha nytta av det vi gör och du gillar jakten på att hitta rätt personer, väcka intresse och öppna dörrar som från början känns stängda.
+Nu sitter du i mötet. De tror att de behöver Business Central (och det kanske de gör). Men ju längre samtalet pågår, desto mer inser du att det egentligen handlar om något annat. Vi pratar processer som inte fungerar som de ska, information som fastnar mellan system och manuella moment som stjäl tid. Affärssystemet är bara en del av problemet.
+Du ställer fler frågor, försöker förstå verksamheten bakom behovet och då händer det som gör att du gillar försäljning.
+Du slutar prata om produkter.
+Och börjar prata om lösningar.
+På Compago är det precis där våra affärer börjar.
+Nu söker vi en säljare som vill skapa nya affärer och hjälpa kunder att förstå hur rätt lösning kan göra verklig skillnad i deras verksamhet
+Om dig:
+Du känner dig trygg med och van vid nykundsförsäljning och vill gärna bidra med din kompetens både gällande hur du hittar kunder och din förståelse inom Microsoft. Du har sålt Microsoft Dynamics 365 Business Central lösningar ett tag nu och visst gillar du det, men du ser fram emot att få bredda din palett med fler tekniker inom Microsoft.
+För att ge dig bästa möjliga förutsättningar ser vi att du:
+
+Har god erfarenhet av nykundsförsäljning
+
+
+Har dokumenterad erfarenhet av försäljning inom Microsoft Dynamics 365 Business Central
+
+
+Talar och skriver obehindrat på svenska och engelska
+
+
+Det är inget måste, men kanske har du även lite koll på tekniker som Power Platform/Dynamics CRM, Power BI och att skapa kundunika lösningar.
+Hur vi ser det:
+På Compago arbetar vi tillsammans med placering i Malmö. Vi värdesätter trygghet, både genom stabila anställningsvillkor och utrymme för personlig och professionell utveckling. Vi är stolta över vår kompetens och gemenskap och du blir en del av ett team som gillar att dela erfarenheter och hjälpas åt. För oss är det viktigt att arbetslivet också innehåller glädje och humor.
+Så välkommen till Compago, där vi gör vardagen både trygg och rolig!
+Läs mer om oss och vår rekryteringsprocess
+Ansökan och frågor:
+Har du frågor eller funderingar får du gärna höra av dig till Hanna Elfving på rekrytering@compago.se. Enligt GDPR tar vi inte emot ansökningar via mejl utan de sker enbart via den här annonsen. Du kan läsa mer om vår integritetspolicy här","Compago AB","2026-09-02 12:54:31","2027-03-01 23:59:59","Vanlig anställning","Heltid","Tills vidare","Arbete på plats","Malmö","Skåne län","Sverige","Systemsäljare","Försäljning, inköp, marknadsföring","https://arbetsformedlingen.se/platsbanken/annonser/31428798"
